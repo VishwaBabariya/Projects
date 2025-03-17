@@ -1,6 +1,6 @@
 📌 **OVERVIEW**
 
-This repository contains an in-depth analysis of NovaTech Hub, a fictional electronic store. The goal was to create a Power BI dashboard that provides a comprehensive summary of the store’s performance, covering sales, profit, costs, product categories, and more. This report helps in understanding key business trends and supports data-driven decision-making.
+This project contains an in-depth analysis of NovaTech Hub, a fictional electronic store. The goal was to create a Power BI dashboard that provides a comprehensive summary of the store’s performance, covering sales, profit, costs, product categories, and more. This report helps in understanding key business trends and supports data-driven decision-making.
 
 🛠 **Technologies Used**
 
