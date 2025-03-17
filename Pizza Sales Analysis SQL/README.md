@@ -1,6 +1,6 @@
 📌 **OVERVIEW**
 
-This repository contains an in-depth analysis of pizza-related data, including customer preferences, sales trends, and more. The goal is to uncover insights that can help improve business decisions in the pizza industry. 
+This project contains an in-depth analysis of pizza-related data, including customer preferences, sales trends, and more. The goal is to uncover insights that can help improve business decisions in the pizza industry. 
 
 🛠 **Technologies Used**
 
