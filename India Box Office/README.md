@@ -2,7 +2,7 @@
 
 In this project, I analyzed the India Box Office dataset to extract insights and answer key questions. The primary objective of this analysis is to understand box office trends and performance metrics using two different technologies: MySQL and Python. By leveraging both technologies, I aim to validate my findings and compare results obtained from each approach.
 
-🛠 **Technologies Used**
+🛠 **TECHNOLOGIES USED**
 
 1. MySQL: Integrating data from multiple CSV files by utilizing SQL joins to perform analysis.
 2. Python: To conduct data analysis using libraries such as Pandas.
